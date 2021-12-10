@@ -11,7 +11,7 @@
   </a>
 </p>
 
->  A python  cli tool to genertae beautiful  quotes text as well with audio of quote.
+>  A python  cli tool to generate beautiful quotes text as well with audio of quote.
 
 ![logo](logo.jpeg)
 ## Install
